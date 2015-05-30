@@ -1,0 +1,13 @@
+C:\Users\rebekah-rossiter\Documents\SDV601\projects\NMIT Case Study\Enrolment 2\bin\Debug\Enrolment 2.exe.config
+C:\Users\rebekah-rossiter\Documents\SDV601\projects\NMIT Case Study\Enrolment 2\bin\Debug\Enrolment 2.exe
+C:\Users\rebekah-rossiter\Documents\SDV601\projects\NMIT Case Study\Enrolment 2\bin\Debug\Enrolment 2.pdb
+C:\Users\rebekah-rossiter\Documents\SDV601\projects\NMIT Case Study\Enrolment 2\obj\Debug\Enrolment_2.FrmMain.resources
+C:\Users\rebekah-rossiter\Documents\SDV601\projects\NMIT Case Study\Enrolment 2\obj\Debug\Enrolment_2.Properties.Resources.resources
+C:\Users\rebekah-rossiter\Documents\SDV601\projects\NMIT Case Study\Enrolment 2\obj\Debug\Enrolment 2.csproj.GenerateResource.Cache
+C:\Users\rebekah-rossiter\Documents\SDV601\projects\NMIT Case Study\Enrolment 2\obj\Debug\Enrolment 2.exe
+C:\Users\rebekah-rossiter\Documents\SDV601\projects\NMIT Case Study\Enrolment 2\obj\Debug\Enrolment 2.pdb
+C:\Users\rebekah-rossiter\Documents\SDV601\projects\NMIT Case Study\Enrolment 2\obj\Debug\Enrolment 2.csprojResolveAssemblyReference.cache
+C:\Users\rebekah-rossiter\Documents\SDV601\projects\NMIT Case Study\Enrolment 2\obj\Debug\Enrolment_2.FrmStudent.resources
+C:\Users\rebekah-rossiter\Documents\SDV601\projects\NMIT-Case-Study\Enrolment 2\bin\Debug\Enrolment 2.exe.config
+C:\Users\rebekah-rossiter\Documents\SDV601\projects\NMIT-Case-Study\Enrolment 2\obj\Debug\Enrolment 2.exe
+C:\Users\rebekah-rossiter\Documents\SDV601\projects\NMIT-Case-Study\Enrolment 2\obj\Debug\Enrolment 2.pdb
